@@ -1,0 +1,29 @@
+{
+  "homeWin": {
+    "bias": 0.1,
+    "minute": 0.005,
+    "scoreDiff": 1.2,
+    "shotsDiff": 0.04,
+    "shotsOnTargetDiff": 0.08,
+    "possessionDiff": 0.01,
+    "redCardDiff": -0.5
+  },
+  "draw": {
+    "bias": 0.4,
+    "minute": -0.004,
+    "scoreDiff": -0.8,
+    "shotsDiff": -0.01,
+    "shotsOnTargetDiff": -0.02,
+    "possessionDiff": 0,
+    "redCardDiff": 0
+  },
+  "awayWin": {
+    "bias": -0.1,
+    "minute": 0.005,
+    "scoreDiff": -1.2,
+    "shotsDiff": -0.04,
+    "shotsOnTargetDiff": -0.08,
+    "possessionDiff": -0.01,
+    "redCardDiff": 0.5
+  }
+}

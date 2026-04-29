@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "errors": [],
+  "pagination": [],
+  "result": [
+    {
+      "id": "mock-1",
+      "date": "2026-04-29 19:30:00",
+      "timer": "72:00",
+      "in_play": true,
+      "championship": {
+        "name": "Portugal Primeira Liga",
+        "country": "PT"
+      },
+      "teamA": {
+        "name": "Benfica",
+        "score": {
+          "f": "2"
+        },
+        "stats": {
+          "possession": "58",
+          "shoots": {
+            "t": "13",
+            "on": "6"
+          },
+          "fouls": {
+            "r_c": "0"
+          }
+        }
+      },
+      "teamB": {
+        "name": "Porto",
+        "score": {
+          "f": "1"
+        },
+        "stats": {
+          "possession": "42",
+          "shoots": {
+            "t": "8",
+            "on": "3"
+          },
+          "fouls": {
+            "r_c": "1"
+          }
+        }
+      }
+    }
+  ]
+}
